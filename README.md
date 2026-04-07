@@ -18,6 +18,20 @@
 
 ## 🔗 Quick Links  
 
+## 📄 Resume  
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1udjr_gtdu4UjekfVj2UdM64_q1DBQoxF/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📥 Download Resume-Click Here-success?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1udjr_gtdu4UjekfVj2UdM64_q1DBQoxF/view?usp=sharing">
+    <img src="https://drive.google.com/thumbnail?id=1udjr_gtdu4UjekfVj2UdM64_q1DBQoxF" width="500"/>
+  </a>
+</p>
+
 <p align="center">
 <a href="mailto:abhirajabhishekranjan@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
