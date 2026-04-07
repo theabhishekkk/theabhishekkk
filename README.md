@@ -50,8 +50,7 @@
 
 📊 GitHub Analytics (Animated)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theabhishekkk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=30" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhishekkk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=30" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theabhishekkk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=30" />
 </p>
 🔥 GitHub Streak
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=theabhishekkk&theme=tokyonight&hide_border=true"/> </p>
