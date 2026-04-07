@@ -49,12 +49,15 @@
 🔹 KPI tracking
 
 📊 GitHub Analytics (Animated)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theabhishekkk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhishekkk&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theabhishekkk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=30" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhishekkk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=30" height="180"/>
+</p>
 🔥 GitHub Streak
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=theabhishekkk&theme=tokyonight&hide_border=true"/> </p>
 📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=theabhishekkk&theme=tokyo-night&hide_border=true"/> </p>
-🐍 Contribution Snake Animation
+🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/theabhishekkk/theabhishekkk/output/github-contribution-grid-snake.svg" /> </p>
 ⚡ Fun Fact
 
