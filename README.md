@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1udjr_gtdu4UjekfVj2UdM64_q1DBQoxF/view?usp=sharing">
+  <a href="https://docs.google.com/document/d/1CkZFWP-zlx0DOSy-F3Ryt3wYPOWmMmHF/edit?usp=sharing&ouid=102653674259108309597&rtpof=true&sd=true">
     <img src="https://drive.google.com/thumbnail?id=1udjr_gtdu4UjekfVj2UdM64_q1DBQoxF" width="500"/>
   </a>
 </p>
