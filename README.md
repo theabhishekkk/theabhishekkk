@@ -1,13 +1,15 @@
 <a id="top"></a>
 
-<!-- HEADER BANNER -->
+<!-- CUTE ANIMATED WELCOME HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:0f4c75,100:00f7ff&height=200&section=header&text=Abhishek%20Ranjan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Data%20Analyst%20%7C%20Backend%20Developer&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" />
 </p>
+
+<h1 align="center">Welcome! I'm Abhishek Ranjan</h1>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Production-Ready+AI+%26+Data+Systems;MCA+Student+%40+Amity+University+Noida;Turning+Raw+Data+into+Scalable+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer+%7C+Data+Analyst+%7C+Backend+Dev;Building+Production-Ready+AI+%26+Data+Systems;MCA+Student+%40+Amity+University+Noida;Turning+Raw+Data+into+Scalable+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
 <!-- QUICK-JUMP NAVIGATION BAR -->
@@ -30,7 +32,7 @@
   <a href="mailto:abhirajabhishekranjan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1udjr_gtdu4UjekfVj2UdM64_q1DBQoxF/view?usp=sharing">
+  <a href="https://docs.google.com/document/d/1CkZFWP-zlx0DOSy-F3Ryt3wYPOWmMmHF/edit">
     <img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=theabhishekkk&label=Views&color=0e75b6&style=for-the-badge" />
@@ -41,7 +43,7 @@
   <details>
     <summary><b>📄 Click to Preview Resume</b></summary>
     <br />
-    <a href="https://docs.google.com/document/d/1CkZFWP-zlx0DOSy-F3Ryt3wYPOWmMmHF/edit?usp=sharing&ouid=102653674259108309597&rtpof=true&sd=true">
+    <a href="https://docs.google.com/document/d/1CkZFWP-zlx0DOSy-F3Ryt3wYPOWmMmHF/edit">
       <img src="https://drive.google.com/thumbnail?id=1udjr_gtdu4UjekfVj2UdM64_q1DBQoxF" width="520" alt="Abhishek Ranjan Resume Preview" />
     </a>
   </details>
@@ -55,7 +57,7 @@
 - 🔬 Former **Research & Intelligent Systems Intern** at Amity Institute of Nuclear Science & Technology (AINST)
 - ⚙️ **Core Focus:** Machine Learning, Computer Vision, Backend Engineering, Data Analytics & BI
 - 🛠️ **Currently Building:** `CodeJudge` — a distributed, Docker-sandboxed code execution & LLM evaluation engine
-- 🏆 **Highlights:** 1st Place @ GDG Amity ML Hackathon (100+ teams) • National Finalist @ IIT Patna E-Summit '26 CaseCrux • 150+ DSA Problems Solved
+- 🏆 **Highlights:** 1st Place @ GDG Amity ML Hackathon (10+ teams) • Participated @ IIT Patna E-Summit '26 CaseCrux • 150+ DSA Problems Solved
 
 ---
 
@@ -195,10 +197,19 @@
   <img src="https://raw.githubusercontent.com/theabhishekkk/theabhishekkk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
-<!-- FOOTER BANNER -->
+---
+
+<!-- ANIMATED FOOTER -->
 <p align="center">
-  <a href="#top">⬆️ Back to Top</a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="45" height="45" />
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0f4c75,100:1a1b27&height=100&section=footer" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=38BDAE&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by!+%E2%9C%A8;Open+to+SDE%2C+AI%2FML+%26+Data+Analytics+Roles+%F0%9F%92%BC;Let's+connect+and+build+something+awesome!" alt="Footer Animation" />
+</p>
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%AC%86%EF%B8%8F-1a1b27?style=for-the-badge" />
+  </a>
 </p>
