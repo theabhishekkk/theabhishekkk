@@ -186,7 +186,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theabhishekkk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+  <a href="https://codolio.com/profile/the.abhishekranjan">
+    <img src="https://img.shields.io/badge/Codolio%20Profile-150%2B%20DSA%20Problems%20Solved-00F7FF?style=for-the-badge&logo=leetcode&logoColor=00F7FF&labelColor=1a1b27" />
+  </a>
+  <br />
+  <a href="https://codolio.com/profile/the.abhishekranjan">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+  </a>
 </p>
 
 <p align="center">
